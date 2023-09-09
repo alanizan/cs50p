@@ -1,0 +1,22 @@
+1- Deep Thought - https://cs50.harvard.edu/python/2022/psets/1/deep/#deep-thought
+
+#Checks
+
+https://submit.cs50.io/check50/2eac470d824a9c0b11031fb131085d143cf9c688
+
+# Results
+
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/deep
+
+
+2- Home Federal Savings Bank - https://cs50.harvard.edu/python/2022/psets/1/bank/
+
+#Checks
+
+https://submit.cs50.io/check50/9817b23fdc5a989c96d24b09b12f1f668c63ea7a
+
+# Results
+
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/deep
+
+3- File Extensions - https://cs50.harvard.edu/python/2022/psets/1/extensions/#file-extensions

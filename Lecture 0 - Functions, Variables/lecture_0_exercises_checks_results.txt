@@ -1,0 +1,28 @@
+1- Indoor Voice
+https://submit.cs50.io/check50/193827a38582d9cbc702a21f3f87fd8737cac156
+#Results
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/indoor
+
+2- Playback Speed
+#Check
+https://submit.cs50.io/check50/c5a94b342e9954d5a8212808c39fe7e840cb56c4
+
+#Results
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/playback
+
+3- Making Faces
+#Checks
+https://submit.cs50.io/check50/10f8db711a6f46cb54ccb2b290d5777aec5bcba4
+
+#Results
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/faces
+
+4 - Tip Calculator
+#Checks
+https://submit.cs50.io/check50/a5783c65c727d97e10acd49cef7d73648b612568
+
+#Results
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/tip
+
+
+
