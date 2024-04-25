@@ -31,8 +31,10 @@ def print_square(size):
             print("#", end="")
         print()
 
-"""
 main()
+
+"""
+
 
 
 def main():
