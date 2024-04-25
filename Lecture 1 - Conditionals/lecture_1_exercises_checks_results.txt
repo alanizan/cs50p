@@ -20,3 +20,21 @@ https://submit.cs50.io/check50/9817b23fdc5a989c96d24b09b12f1f668c63ea7a
 https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/deep
 
 3- File Extensions - https://cs50.harvard.edu/python/2022/psets/1/extensions/#file-extensions
+
+#Checks
+
+https://submit.cs50.io/check50/7f0560ece293d8df01357d4a328399cec012de2f
+
+# Results
+
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/extensions
+
+Math Interpreter - https://cs50.harvard.edu/python/2022/psets/1/interpreter/
+
+#Checks
+
+https://submit.cs50.io/check50/c67c53f449b2b48c9813219ec01025678f17f068
+
+# Results
+
+https://submit.cs50.io/users/alanizan/cs50/problems/2022/python/interpreter

@@ -1,5 +1,5 @@
-txt = "apple#banana#cherry#orange"
+e = float(input("entry"))
+d = float(input("entry"))
 
-x = txt.split("#")
-
-print(x)
+z = d * e
+print(z)
